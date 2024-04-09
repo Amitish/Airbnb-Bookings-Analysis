@@ -1,3 +1,6 @@
+![image](https://github.com/Amitish/Airbnb-Bookings-Analysis/assets/58432032/2e21da49-462d-4901-99fe-805b3cea1310)
+
+
 # Airbnb-Bookings-Analysis
 EDA Project on Airbnb Bookings Analysis 
 
